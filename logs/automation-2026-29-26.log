@@ -1,0 +1,8 @@
+2026-02-26 01:29:12,707 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
+2026-02-26 01:29:12,975 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
+2026-02-26 01:29:13,645 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+2026-02-26 01:29:13,648 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
+2026-02-26 01:29:17,276 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
+2026-02-26 01:29:17,343 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********
+2026-02-26 01:29:19,789 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Starting TC002_LoginTest *************
+2026-02-26 01:29:21,259 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Finished TC002_LoginTest *************
