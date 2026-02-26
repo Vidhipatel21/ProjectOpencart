@@ -1,8 +1,8 @@
-2026-02-26 01:35:13,649 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
-2026-02-26 01:35:13,836 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
-2026-02-26 01:35:14,448 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
-2026-02-26 01:35:14,451 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
-2026-02-26 01:35:17,847 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
-2026-02-26 01:35:17,912 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********
-2026-02-26 01:35:20,138 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Starting TC002_LoginTest *************
-2026-02-26 01:35:21,529 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Finished TC002_LoginTest *************
+2026-02-26 03:36:21,015 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
+2026-02-26 03:36:21,302 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
+2026-02-26 03:36:22,001 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+2026-02-26 03:36:22,007 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
+2026-02-26 03:36:25,523 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
+2026-02-26 03:36:25,573 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********
+2026-02-26 03:36:28,787 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Starting TC002_LoginTest *************
+2026-02-26 03:36:30,430 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Finished TC002_LoginTest *************
