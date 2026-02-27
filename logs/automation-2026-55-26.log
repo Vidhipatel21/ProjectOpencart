@@ -1,0 +1,4 @@
+2026-02-26 18:55:05,830 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:55:07,693 {HH:mm:ss.SSS} [main] INFO  testCases.TC004_SearchProductTest -************ Starting TC004_SearchProductTest ************
+2026-02-26 18:55:20,297 {HH:mm:ss.SSS} [main] INFO  testCases.TC005_AddTOCartPageTest -************* Starting TC005_AddTOCartPageTest **************
+2026-02-26 18:55:21,693 {HH:mm:ss.SSS} [main] INFO  testCases.TC005_AddTOCartPageTest -************* Finished TC005_AddTOCartPageTest **************

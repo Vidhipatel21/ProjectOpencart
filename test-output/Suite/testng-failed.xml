@@ -4,24 +4,17 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Linux-Edge(failed)">
-    <parameter name="os" value="Linux"/>
-    <parameter name="browser" value="edge"/>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Edge"/>
     <classes>
-      <class name="testCases.TC002_LoginTest">
+      <class name="testCases.TC006_EndToEndTest">
         <methods>
           <include name="setup"/>
-          <include name="verify_login"/>
+          <include name="endToendTest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="verify_account_registration"/>
-          <include name="setup"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      </class> <!-- testCases.TC006_EndToEndTest -->
     </classes>
-  </test> <!-- Linux-Edge(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

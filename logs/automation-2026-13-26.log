@@ -1,0 +1,6 @@
+2026-02-26 17:13:19,696 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 17:13:23,403 {HH:mm:ss.SSS} [main] INFO  testCases.TC006_EndToEndTest -************* Account Registration ***************
+2026-02-26 17:13:30,661 {HH:mm:ss.SSS} [main] INFO  testCases.TC006_EndToEndTest -***************** Login to Application *****************
+2026-02-26 17:13:31,583 {HH:mm:ss.SSS} [main] INFO  testCases.TC006_EndToEndTest -*************** Search & Add Product to Cart ***************

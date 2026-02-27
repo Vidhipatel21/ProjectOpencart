@@ -1,0 +1,5 @@
+2026-02-26 19:01:07,731 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 19:01:10,860 {HH:mm:ss.SSS} [main] INFO  testCases.TC004_SearchProductTest -************ Starting TC004_SearchProductTest ************
+2026-02-26 19:01:11,743 {HH:mm:ss.SSS} [main] INFO  testCases.TC004_SearchProductTest -************ Finished TC004_SearchProductTest ************

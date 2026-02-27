@@ -1,0 +1,9 @@
+2026-02-26 18:53:20,583 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 18:53:23,334 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
+2026-02-26 18:53:23,447 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
+2026-02-26 18:53:23,888 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+2026-02-26 18:53:23,899 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
+2026-02-26 18:53:26,985 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
+2026-02-26 18:53:27,026 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********

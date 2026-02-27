@@ -1,8 +1,4 @@
-2026-02-26 01:35:13,649 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
-2026-02-26 01:35:13,836 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
-2026-02-26 01:35:14,448 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
-2026-02-26 01:35:14,451 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
-2026-02-26 01:35:17,847 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
-2026-02-26 01:35:17,912 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********
-2026-02-26 01:35:20,138 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Starting TC002_LoginTest *************
-2026-02-26 01:35:21,529 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Finished TC002_LoginTest *************
+2026-02-26 04:35:24,776 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 04:35:28,229 {HH:mm:ss.SSS} [main] INFO  testCases.TC004_SearchProductTest -************ Starting TC004_SearchProductTest ************

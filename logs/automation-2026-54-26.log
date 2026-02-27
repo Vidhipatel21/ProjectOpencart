@@ -1,0 +1,22 @@
+2026-02-26 18:54:25,071 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 18:54:27,465 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Starting TC001_AccountRegistrationTest **********
+2026-02-26 18:54:27,622 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account Link
+2026-02-26 18:54:28,067 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+2026-02-26 18:54:28,068 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
+2026-02-26 18:54:30,992 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -Validating Expected Message
+2026-02-26 18:54:31,047 {HH:mm:ss.SSS} [main] INFO  testCases.TC001_AccountRegistrationTest -*********** Finished TC001_AccountRegistrationTest **********
+2026-02-26 18:54:32,931 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Starting TC002_LoginTest *************
+2026-02-26 18:54:34,150 {HH:mm:ss.SSS} [main] INFO  testCases.TC002_LoginTest -************ Finished TC002_LoginTest *************
+2026-02-26 18:54:37,940 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********
+2026-02-26 18:54:40,029 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:54:40,037 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********
+2026-02-26 18:54:41,449 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:54:41,452 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********
+2026-02-26 18:54:42,874 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:54:42,877 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********
+2026-02-26 18:54:53,695 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:54:53,707 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********
+2026-02-26 18:54:55,167 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Finished TC003_LoginDDT ***********
+2026-02-26 18:54:55,169 {HH:mm:ss.SSS} [main] INFO  testCases.TC003_LoginDDT -********* Starting TC003_LoginDDT ***********

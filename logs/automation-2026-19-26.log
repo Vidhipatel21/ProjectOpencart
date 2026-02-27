@@ -1,0 +1,4 @@
+2026-02-26 13:19:16,917 {HH:mm:ss.SSS} [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patel\eclipse-workspace\ProjectOpencart\master.xml
+
+2026-02-26 13:19:20,218 {HH:mm:ss.SSS} [main] INFO  testCases.TC005_AddTOCartPageTest -************* Starting TC005_AddTOCartPageTest **************
